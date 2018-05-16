@@ -12,3 +12,5 @@ O padrão Strategy serve para “definir uma família de algoritmos, encapsular 
 Onde uso?
 Classes que precisam alternar o seu comportamento em tempo de execução sem mudar a sua própria implementação.
 Utileze STRATEGY quando precisar alternar o comportamento de um objeto.
+
+Também é utilizado o padrão Factory (Factory Method) que serve para instanciar classes dinamicamente conhecendo apenas sua interface ou classe abstrata.
